@@ -1,0 +1,4 @@
+Prototype Figma: https://www.figma.com/file/kOm3q4ifn95EsIIqZqMLNt/Prototype-E-Wallet-Aviana
+
+.env di server
+SECRET=MINJUUUUUUUU
