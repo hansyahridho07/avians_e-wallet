@@ -1,4 +1,4 @@
 Prototype Figma: https://www.figma.com/file/kOm3q4ifn95EsIIqZqMLNt/Prototype-E-Wallet-Aviana
-
+Link deploy: https://aviana-e-wallet.web.app/
 .env di server
 SECRET=MINJUUUUUUUU
