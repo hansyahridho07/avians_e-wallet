@@ -2,6 +2,13 @@
 
 ## Link deploy: https://aviana-e-wallet.web.app/
 
+**Akun Percobaan**
+
+- **Username: user1**
+- **Password: 12345**
+
+---
+
 ## API DOC
 
 - **POST /user/createUser**
