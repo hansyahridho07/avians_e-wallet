@@ -7,6 +7,13 @@
 - **Username: user1**
 - **Password: 12345**
 
+**Data credit card**
+
+- **Card Number**: 4811 1111 1111 1114
+- **Expiry date**: 12/21
+- **CVV**: 123
+- **Password**: 112233
+
 ---
 
 ## API DOC
